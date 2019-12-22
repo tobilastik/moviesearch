@@ -12,6 +12,7 @@ function Navbar () {
               alt="Logo"
               style={{height: '100px', width: '250px'}}
             />
+
           </div>
 
         </div>
